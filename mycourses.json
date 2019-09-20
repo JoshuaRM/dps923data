@@ -2,7 +2,7 @@
   "student": "Joshua Mayers",
   "version": "1.0.0",
   "timestamp": "2019-09-20T11:39:12+0000",
-  "count": 4,
+  "count": 10,
   "data": [
     {"id": 1, "courseCode": "WTP200", "courseName": "Work Term Preperation"},
     {"id": 2, "courseCode": "BTS630", "courseName": "Project Implementaion"},
